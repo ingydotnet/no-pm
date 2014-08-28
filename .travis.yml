@@ -33,7 +33,7 @@ after_success:
 notifications:
   irc:
     channels:
-    - irc.perl.org#inline
+    - irc.freenode.net#pkg
     on_success: change
     on_failure: always
     skip_join: true

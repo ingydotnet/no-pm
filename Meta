@@ -1,7 +1,7 @@
 =meta: 0.0.2
 
 name: no
-version: 0.0.1
+version: 0.0.2
 abstract: Now `use no` is not a `no no`
 homepage: https://metacpan.org/release/no
 language: perl
@@ -19,7 +19,7 @@ author:
 devel:
   git: https://github.com/ingydotnet/no-pm
   bug: https://github.com/ingydotnet/no-pm/issues
-  irc: irc.perl.org#inline
+  irc: irc.freenode.net#pkg
 
 requires:
   perl: 5.8.1

@@ -1,16 +1,26 @@
 no
-==
+====
 
 Now `use no` is not a `no no`
 
 <badge travis coveralls ingydotnet/no-pm>
 
+=begin html
+
+<image http://img2.wikia.nocookie.net/__cb20131023163224/animaljam/images/f/f9/Nonono_cat.gif>
+
+=end html
+
 = Synopsis
 
-  use no evil;
   no no;
+  use no evil;
 
 = Description
+
+no worries?
+
+no wonder!
 
 no what I mean?
 
